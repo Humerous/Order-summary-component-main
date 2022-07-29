@@ -24,8 +24,8 @@ Users should be able to:
 
 ### Screenshot
 
-![Desktop-View]()
-![Mobile-View]()
+![Desktop-View](https://github.com/Humerous/Order-summary-component-main/blob/main/Order-summary-component-main-Desktop.jpg)
+![Mobile-View](https://github.com/Humerous/Order-summary-component-main/blob/main/Order-summary-component-main-mobile.jpg)
 
 ### Links
 
