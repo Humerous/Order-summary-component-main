@@ -1,74 +1,52 @@
-# Order-summary-component-main
+# Order Summary Component
 
-## Table of contents
-
-- [Overview](#overview)
-  - [The challenge](#the-challenge)
-  - [Screenshot](#screenshot)
-  - [Links](#links)
-- [My process](#my-process)
-  - [Built with](#built-with)
-  - [What I learned](#what-i-learned)
-  - [Continued development](#continued-development)
-  - [Useful resources](#useful-resources)
-- [Author](#author)
-- [Acknowledgments](#acknowledgments)
+A responsive order-summary card built as a Frontend Mentor practice project.
 
 ## Overview
 
-### The challenge
+The goal of this project was to reproduce the supplied order-summary design as closely as possible while keeping the layout responsive across desktop and mobile screen sizes.
 
-Users should be able to:
+## Live Demo
 
-- View the optimal layout for the site depending on their device's screen size
+[Open Live Site](https://dm-order-summary-component-main.netlify.app/)
 
-### Screenshot
+## Screenshots
 
-![Desktop-View](https://github.com/Humerous/Order-summary-component-main/blob/main/Order-summary-component-main-Desktop.jpg)
-![Mobile-View](https://github.com/Humerous/Order-summary-component-main/blob/main/Order-summary-component-main-mobile.jpg)
+![Desktop view](Order-summary-component-main-Desktop.jpg)
 
-### Links
+![Mobile view](Order-summary-component-main-mobile.jpg)
 
-- Live Site URL: (https://dm-order-summary-component-main.netlify.app/)
+## Built With
 
-## My process
-
-I used the screenshots as a starting point and worked slow and methodical.
-
-### Built with
-
-- Semantic HTML5 markup
+- Semantic HTML5
 - CSS custom properties
 - Flexbox
 - CSS Grid
-- Mobile-first workflow
+- Mobile-first responsive design
 
-### What I learned
+## What I Learned
 
-Use this section to recap over some of your major learnings while working through this project. Writing these out and providing code samples of areas you
+This project provided practical experience with card layouts, spacing, typography, responsive design, and adapting a supplied interface across different viewport sizes.
 
-### Continued development
+## Project Context
 
-- Semantic HTML5 markup
-- CSS custom properties
-- CSS Grid / Flexbox and more...
-- Javascript
-- Full-Stack Development
-- Mobile-first workflow
+This was created as part of my earlier front-end development practice and is retained as a record of that stage of my development progression.
 
-### Useful resources
+## Resources
 
-- [Google](https://www.google.com) - This helped me for research reason.
-- [Jonas schmedtmann](https://codingheroes.io/) - My go too instructor for web development.
-- [Mmdn](https://developer.mozilla.org/en-US/) - Documenting web technologies, including CSS, HTML, and JavaScript.
-- [CSS-tricks](https://css-tricks.com/) - Go too CSS documentation and development
-- [Stack-overflow](https://stackoverflow.com/) - Empowering the world to develop technology through collective knowledge.
+- [Frontend Mentor](https://www.frontendmentor.io/)
+- [MDN Web Docs](https://developer.mozilla.org/)
+
+## Author
+
+- Frontend Mentor: [@humerous](https://www.frontendmentor.io/profile/Humerous)
+- X: [@DavidMillerster](https://www.twitter.com/DavidMillerster)
 
 ## License
 
 MIT License
 
-Copyright (c) [2022][david k miller]
+Copyright (c) 2022 David K Miller
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
@@ -87,19 +65,3 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
-
-[Back To The Top](#read-me-template)
-
----
-
-## Author
-
-- Website - [David Miller](https://my-portfolio-phi-seven.vercel.app/)
-- Frontend Mentor - [@humerous](https://www.frontendmentor.io/profile/Humerous)
-- Twitter - [@DavidMillerster](https://www.twitter.com/DavidMillerster)
-
-## Acknowledgments
-
-# Frontend Mentor - Testimonials grid section solution
-
-Thanks to my family and friends for always supporting me and motivating me to keep pushing forward.
